@@ -1,0 +1,6455 @@
+[
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 180,
+        "raw": "ABcALwADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T10:52:28.364608266Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 180,
+        "raw": "ABcALwADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T11:02:30.551847706Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 180,
+        "raw": "ABcALwADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T11:12:32.734389752Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 179,
+        "raw": "ABcALgADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T11:22:34.923134542Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 179,
+        "raw": "ABcALgADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T11:32:37.108871944Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 179,
+        "raw": "ABcALgADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T11:42:39.296755437Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 179,
+        "raw": "ABcALwADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T11:52:41.477671169Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 178,
+        "raw": "ABcALwADA68=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T12:02:43.662136318Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 180,
+        "raw": "ABcAMAADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T12:12:45.847525831Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 180,
+        "raw": "ABcAMAADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T12:22:48.038251399Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 181,
+        "raw": "ABcAMAADA7I=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T12:32:50.221365397Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 178,
+        "raw": "ABcAMAADA68=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T12:42:52.409124086Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 179,
+        "raw": "ABcAMAADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T12:52:54.586076357Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 179,
+        "raw": "ABcAMAADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T13:02:56.781472292Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 180,
+        "raw": "ABcAMAADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T13:12:58.965137792Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 179,
+        "raw": "ABcAMQADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T13:23:01.146876234Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 179,
+        "raw": "ABcAMQADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T13:33:03.332505536Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 180,
+        "raw": "ABcAMQADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T13:43:05.525705374Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 179,
+        "raw": "ABcAMQADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T13:53:07.707227854Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 50,
+        "light": 179,
+        "raw": "ABcAMgADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T14:03:09.889848397Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 50,
+        "light": 179,
+        "raw": "ABcAMgADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T14:13:12.072838888Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 50,
+        "light": 179,
+        "raw": "ABcAMgADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T14:23:14.263867613Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 50,
+        "light": 180,
+        "raw": "ABcAMgADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T14:33:16.446848711Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 179,
+        "raw": "ABcAMwADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T14:43:18.628468873Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 181,
+        "raw": "ABcAMwADA7I=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T14:53:20.822911259Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 181,
+        "raw": "ABcAMwACA7I=",
+        "soilMoisture": 2,
+        "temperature": 23,
+        "time": "2019-06-10T15:03:23.00404827Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 181,
+        "raw": "ABcAMwACA7I=",
+        "soilMoisture": 2,
+        "temperature": 23,
+        "time": "2019-06-10T15:13:25.190610894Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABcAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 23,
+        "time": "2019-06-10T15:23:27.374858979Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABcANAADA7I=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T15:33:29.562647714Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABcANAADA7M=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T15:43:31.74782867Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 183,
+        "raw": "ABcANAACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 23,
+        "time": "2019-06-10T15:53:33.933227809Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABcANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 23,
+        "time": "2019-06-10T16:03:36.118817602Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABcANAADA7I=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T16:13:38.303736455Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABcANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 23,
+        "time": "2019-06-10T16:23:40.491550495Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 183,
+        "raw": "ABcANAACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 23,
+        "time": "2019-06-10T16:33:42.670630275Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 180,
+        "raw": "ABcANAADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T16:43:44.859495255Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABcANAADA7I=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T16:53:47.052021473Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 180,
+        "raw": "ABcANAADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T17:03:49.231793477Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABcANAADA7I=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T17:13:51.417678612Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABcANAADA7I=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-10T17:23:53.596924391Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABYANAADA7I=",
+        "soilMoisture": 3,
+        "temperature": 22,
+        "time": "2019-06-10T17:33:55.785558666Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T17:43:57.967831037Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAADA7M=",
+        "soilMoisture": 3,
+        "temperature": 22,
+        "time": "2019-06-10T17:54:00.15636182Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 184,
+        "raw": "ABYANAACA7U=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T18:04:02.345556861Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 183,
+        "raw": "ABYANAACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T18:14:04.527635745Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 184,
+        "raw": "ABYANAACA7U=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T18:24:06.713966842Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 183,
+        "raw": "ABYANAACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T18:34:08.902701077Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 183,
+        "raw": "ABYANAACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T18:44:11.085475101Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T18:54:13.275066874Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 183,
+        "raw": "ABYANAACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T19:04:15.46207743Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T19:14:17.647123668Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 183,
+        "raw": "ABYANAACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T19:24:19.830264247Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 183,
+        "raw": "ABYANAACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T19:34:22.014525367Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T19:44:24.199256754Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T19:54:26.389914003Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T20:04:28.57142862Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABYANAACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T20:14:30.75917788Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T20:24:32.937867574Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T20:34:35.12279869Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T20:44:37.317302296Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T20:54:39.499733009Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T21:04:41.682265213Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABYANAACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T21:14:43.862975429Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T21:24:46.054602112Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T21:34:48.242335074Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABYANAACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T21:44:50.421784769Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABYANAACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T21:54:52.61625668Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T22:04:54.7980954Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABYANAACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T22:14:56.978729042Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T22:24:59.170462946Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T22:35:01.348593949Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABYANAACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T22:45:03.537080334Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABYANAACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T22:55:05.72375294Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T23:05:07.905820858Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABYANAACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T23:15:10.08834617Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T23:25:12.276423098Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 182,
+        "raw": "ABYANAACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T23:35:14.457870087Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 181,
+        "raw": "ABYANAACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T23:45:16.6480099Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-10T23:55:18.830312394Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T00:05:21.020061108Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T00:15:23.208631746Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T00:25:25.397199708Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 52,
+        "light": 183,
+        "raw": "ABYANAACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T00:35:27.581746504Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T00:45:29.75771408Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T00:55:31.951925245Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T01:05:34.135827201Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T01:15:36.3227068Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T01:25:38.50628139Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T01:35:40.686846797Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 185,
+        "raw": "ABYAMwACA7Y=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T01:45:42.877304885Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T01:55:45.058637979Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T02:05:47.245863496Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 183,
+        "raw": "ABYAMwACA7Q=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T02:15:49.428147623Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T02:25:51.615864545Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T02:35:53.800170527Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T02:45:55.983836369Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T02:55:58.169552637Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T03:06:00.362325668Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T03:16:02.541836001Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T03:26:04.729659467Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 181,
+        "raw": "ABYAMwACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T03:36:06.916337766Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T03:46:09.100529472Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T03:56:11.291683375Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T04:06:13.466889978Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 181,
+        "raw": "ABYAMwACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T04:16:15.66262248Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 182,
+        "raw": "ABYAMwACA7M=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T04:26:17.848000428Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 181,
+        "raw": "ABYAMwACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T04:36:20.025235879Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 51,
+        "light": 181,
+        "raw": "ABYAMwACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T04:46:22.210829002Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 50,
+        "light": 181,
+        "raw": "ABYAMgACA7I=",
+        "soilMoisture": 2,
+        "temperature": 22,
+        "time": "2019-06-11T04:56:24.397425661Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 50,
+        "light": 181,
+        "raw": "ABYAMgADA7I=",
+        "soilMoisture": 3,
+        "temperature": 22,
+        "time": "2019-06-11T05:06:26.587821073Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 50,
+        "light": 180,
+        "raw": "ABYAMgADA7E=",
+        "soilMoisture": 3,
+        "temperature": 22,
+        "time": "2019-06-11T05:16:28.771114289Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 50,
+        "light": 181,
+        "raw": "ABYAMgADA7I=",
+        "soilMoisture": 3,
+        "temperature": 22,
+        "time": "2019-06-11T05:26:30.952023451Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 181,
+        "raw": "ABYAMQADA7I=",
+        "soilMoisture": 3,
+        "temperature": 22,
+        "time": "2019-06-11T05:36:33.146100346Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 50,
+        "light": 181,
+        "raw": "ABYAMgADA7I=",
+        "soilMoisture": 3,
+        "temperature": 22,
+        "time": "2019-06-11T05:46:35.329614655Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 181,
+        "raw": "ABYAMQADA7I=",
+        "soilMoisture": 3,
+        "temperature": 22,
+        "time": "2019-06-11T05:56:37.513379629Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 180,
+        "raw": "ABcAMQADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T06:06:39.697379401Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 180,
+        "raw": "ABcAMQADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T06:16:41.883339018Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 180,
+        "raw": "ABcAMAADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T06:26:44.068325513Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 180,
+        "raw": "ABcAMAADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T06:36:46.249104612Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 180,
+        "raw": "ABcALwADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T06:46:48.435643502Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 180,
+        "raw": "ABcALwADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T06:56:50.623132405Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 180,
+        "raw": "ABcALgADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T07:06:52.810850895Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 180,
+        "raw": "ABcALwADA7E=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T07:16:54.993151219Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 179,
+        "raw": "ABcAMAADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T07:26:57.179697614Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 179,
+        "raw": "ABcALwADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T07:36:59.362869773Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 178,
+        "raw": "ABcALgADA68=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T07:47:01.554077662Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 179,
+        "raw": "ABcALgADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T07:57:03.736747984Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 179,
+        "raw": "ABcALgADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T08:07:05.921503385Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 178,
+        "raw": "ABcALgADA68=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T08:17:08.114049051Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 179,
+        "raw": "ABcALwADA7A=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T08:27:10.295273277Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 178,
+        "raw": "ABgALQADA68=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T08:37:12.47836352Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 181,
+        "raw": "ABgALQADA7I=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T08:47:14.664242778Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 180,
+        "raw": "ABgALAADA7E=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T08:57:16.853955287Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 178,
+        "raw": "ABcALAADA68=",
+        "soilMoisture": 3,
+        "temperature": 23,
+        "time": "2019-06-11T09:07:19.047162687Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 179,
+        "raw": "ABgAKgADA7A=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T09:17:21.234596252Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 180,
+        "raw": "ABgAKgADA7E=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T09:27:23.410158844Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 183,
+        "raw": "ABgAKQADA7Q=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T09:37:25.602581438Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 179,
+        "raw": "ABgAKQADA7A=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T09:47:27.788288205Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 181,
+        "raw": "ABgAKQADA7I=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T09:57:29.967335206Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 182,
+        "raw": "ABgAKgADA7M=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T10:07:32.159443449Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 179,
+        "raw": "ABgAKgADA7A=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T10:17:34.344226922Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 182,
+        "raw": "ABgAKQADA7M=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-11T10:27:36.529332982Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 179,
+        "raw": "ABkAJwADA7A=",
+        "soilMoisture": 3,
+        "temperature": 25,
+        "time": "2019-06-11T10:37:38.718679156Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 179,
+        "raw": "ABkAKAADA7A=",
+        "soilMoisture": 3,
+        "temperature": 25,
+        "time": "2019-06-11T10:47:40.904861288Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 178,
+        "raw": "ABoAJwADA68=",
+        "soilMoisture": 3,
+        "temperature": 26,
+        "time": "2019-06-11T10:57:43.082854529Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 179,
+        "raw": "ABoAJwADA7A=",
+        "soilMoisture": 3,
+        "temperature": 26,
+        "time": "2019-06-11T11:07:45.275888265Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 178,
+        "raw": "ABoAKAADA68=",
+        "soilMoisture": 3,
+        "temperature": 26,
+        "time": "2019-06-11T11:17:47.463238304Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 181,
+        "raw": "ABkAJgADA7I=",
+        "soilMoisture": 3,
+        "temperature": 25,
+        "time": "2019-06-11T11:27:49.648238906Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 180,
+        "raw": "ABkAJwADA7E=",
+        "soilMoisture": 3,
+        "temperature": 25,
+        "time": "2019-06-11T11:37:51.833476572Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 180,
+        "raw": "ABkAJwADA7E=",
+        "soilMoisture": 3,
+        "temperature": 25,
+        "time": "2019-06-11T11:47:54.014885763Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 181,
+        "raw": "ABoAKAADA7I=",
+        "soilMoisture": 3,
+        "temperature": 26,
+        "time": "2019-06-11T11:57:56.205364097Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 180,
+        "raw": "ABoAKQADA7E=",
+        "soilMoisture": 3,
+        "temperature": 26,
+        "time": "2019-06-11T12:07:58.394223792Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 180,
+        "raw": "ABoAKQADA7E=",
+        "soilMoisture": 3,
+        "temperature": 26,
+        "time": "2019-06-11T12:18:00.57989168Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 178,
+        "raw": "ABoAKQAEA68=",
+        "soilMoisture": 4,
+        "temperature": 26,
+        "time": "2019-06-11T12:28:02.762635396Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 179,
+        "raw": "ABoAKAADA7A=",
+        "soilMoisture": 3,
+        "temperature": 26,
+        "time": "2019-06-11T12:38:04.953164252Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 173,
+        "raw": "ABoAJwAEA6o=",
+        "soilMoisture": 4,
+        "temperature": 26,
+        "time": "2019-06-11T12:48:07.136241687Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 176,
+        "raw": "ABoAJQAEA60=",
+        "soilMoisture": 4,
+        "temperature": 26,
+        "time": "2019-06-11T12:58:09.318630019Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 174,
+        "raw": "ABkAJQAFA6s=",
+        "soilMoisture": 5,
+        "temperature": 25,
+        "time": "2019-06-11T13:08:11.506183301Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 173,
+        "raw": "ABoAJgAEA6o=",
+        "soilMoisture": 4,
+        "temperature": 26,
+        "time": "2019-06-11T13:18:13.692581989Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 174,
+        "raw": "ABoAJwAFA6s=",
+        "soilMoisture": 5,
+        "temperature": 26,
+        "time": "2019-06-11T13:28:15.878091412Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 175,
+        "raw": "ABkAKQAEA6w=",
+        "soilMoisture": 4,
+        "temperature": 25,
+        "time": "2019-06-11T13:38:18.068923323Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 173,
+        "raw": "ABgAKgAFA6o=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-11T13:48:20.253627349Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 172,
+        "raw": "ABgALAAFA6k=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-11T13:58:22.44193512Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 169,
+        "raw": "ABkAKwAFA6Y=",
+        "soilMoisture": 5,
+        "temperature": 25,
+        "time": "2019-06-11T14:08:24.628270715Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 168,
+        "raw": "ABkAKQAGA6U=",
+        "soilMoisture": 6,
+        "temperature": 25,
+        "time": "2019-06-11T14:18:26.812592122Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 168,
+        "raw": "ABoAKAAGA6U=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T14:28:28.997021012Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 170,
+        "raw": "ABoAKAAGA6c=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T14:38:31.187425616Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 169,
+        "raw": "ABoAKQAGA6Y=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T14:48:33.374484971Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 170,
+        "raw": "ABoAKAAGA6c=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T14:58:35.551312101Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 168,
+        "raw": "ABoAKQAGA6U=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T15:08:37.738099011Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 168,
+        "raw": "ABoAKQAGA6U=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T15:18:39.926086959Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 169,
+        "raw": "ABoAKAAGA6Y=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T15:28:42.115177546Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 170,
+        "raw": "ABoAKgAGA6c=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T15:38:44.301126075Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 168,
+        "raw": "ABoAKwAGA6U=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T15:48:46.487027248Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 167,
+        "raw": "ABoALAAGA6Q=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T15:58:48.67095853Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 168,
+        "raw": "ABoAKQAGA6U=",
+        "soilMoisture": 6,
+        "temperature": 26,
+        "time": "2019-06-11T16:08:50.858469826Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 169,
+        "raw": "ABwAIwAGA6Y=",
+        "soilMoisture": 6,
+        "temperature": 28,
+        "time": "2019-06-11T16:18:53.049620749Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 29,
+        "light": 168,
+        "raw": "ACAAHQAGA6U=",
+        "soilMoisture": 6,
+        "temperature": 32,
+        "time": "2019-06-11T16:28:55.231114317Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 26,
+        "light": 172,
+        "raw": "ACEAGgAFA6k=",
+        "soilMoisture": 5,
+        "temperature": 33,
+        "time": "2019-06-11T16:38:57.419179353Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 32,
+        "light": 165,
+        "raw": "AB0AIAAGA6I=",
+        "soilMoisture": 6,
+        "temperature": 29,
+        "time": "2019-06-11T16:48:59.609656165Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 34,
+        "light": 171,
+        "raw": "ABsAIgAFA6g=",
+        "soilMoisture": 5,
+        "temperature": 27,
+        "time": "2019-06-11T16:59:01.793859459Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 165,
+        "raw": "ABsAJQAFA6I=",
+        "soilMoisture": 5,
+        "temperature": 27,
+        "time": "2019-06-11T17:09:03.978519643Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 167,
+        "raw": "ABoAKAAFA6Q=",
+        "soilMoisture": 5,
+        "temperature": 26,
+        "time": "2019-06-11T17:19:06.165398838Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 164,
+        "raw": "ABkAKQAFA6E=",
+        "soilMoisture": 5,
+        "temperature": 25,
+        "time": "2019-06-11T17:29:08.35592955Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 163,
+        "raw": "ABkAKQAFA6A=",
+        "soilMoisture": 5,
+        "temperature": 25,
+        "time": "2019-06-11T17:39:10.536526048Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 175,
+        "raw": "ABgAKgAFA6w=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-11T17:49:12.72731925Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 169,
+        "raw": "ABgAKwAEA6Y=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-11T17:59:14.910426547Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 166,
+        "raw": "ABgAKwAEA6M=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-11T18:09:17.096568111Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 163,
+        "raw": "ABgALAAFA6A=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-11T18:19:19.280755097Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 163,
+        "raw": "ABgALQAFA6A=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-11T18:29:21.469041994Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 162,
+        "raw": "ABcALQAFA58=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-11T18:39:23.649892464Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 163,
+        "raw": "ABcALQAFA6A=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-11T18:49:25.836625136Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 163,
+        "raw": "ABcALgAFA6A=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-11T18:59:28.032201947Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 163,
+        "raw": "ABcALgAFA6A=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-11T19:09:30.208648999Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 168,
+        "raw": "ABcALgAFA6U=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-11T19:19:32.397751503Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 172,
+        "raw": "ABcALgAEA6k=",
+        "soilMoisture": 4,
+        "temperature": 23,
+        "time": "2019-06-11T19:29:34.581369649Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 169,
+        "raw": "ABcALgAEA6Y=",
+        "soilMoisture": 4,
+        "temperature": 23,
+        "time": "2019-06-11T19:39:36.771766608Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 169,
+        "raw": "ABcALwAEA6Y=",
+        "soilMoisture": 4,
+        "temperature": 23,
+        "time": "2019-06-11T19:49:38.953540193Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 167,
+        "raw": "ABYALwAEA6Q=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T19:59:41.142743871Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 167,
+        "raw": "ABYALwAEA6Q=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T20:09:43.32271739Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 167,
+        "raw": "ABYALwAEA6Q=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T20:19:45.508267921Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 168,
+        "raw": "ABYALwADA6U=",
+        "soilMoisture": 3,
+        "temperature": 22,
+        "time": "2019-06-11T20:29:47.700619579Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 167,
+        "raw": "ABYALgAEA6Q=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T20:39:49.879442671Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 165,
+        "raw": "ABYALwAEA6I=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T20:49:52.067816483Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 165,
+        "raw": "ABYALwAEA6I=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T20:59:54.253426043Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 166,
+        "raw": "ABYALwAEA6M=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T21:09:56.437164966Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 165,
+        "raw": "ABYALwAEA6I=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T21:19:58.625713784Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 163,
+        "raw": "ABYALwAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T21:30:00.807309491Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 164,
+        "raw": "ABYALwAEA6E=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T21:40:02.996174745Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 165,
+        "raw": "ABYALwAEA6I=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T21:50:05.18205998Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 164,
+        "raw": "ABYALwAEA6E=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T22:00:07.364785098Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 164,
+        "raw": "ABYALwAEA6E=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T22:10:09.551121368Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 166,
+        "raw": "ABYALwAEA6M=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T22:20:11.736796953Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 167,
+        "raw": "ABYALwAEA6Q=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T22:30:13.92600082Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 164,
+        "raw": "ABYALgAEA6E=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T22:40:16.108856829Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 164,
+        "raw": "ABYALwAEA6E=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T22:50:18.292524618Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 166,
+        "raw": "ABYALwADA6M=",
+        "soilMoisture": 3,
+        "temperature": 22,
+        "time": "2019-06-11T23:00:20.476341919Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 164,
+        "raw": "ABYALwAEA6E=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T23:10:22.663658071Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 163,
+        "raw": "ABYALwAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-11T23:20:24.849013092Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 167,
+        "raw": "ABUALgADA6Q=",
+        "soilMoisture": 3,
+        "temperature": 21,
+        "time": "2019-06-11T23:30:27.032281411Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 162,
+        "raw": "ABUALQAEA58=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-11T23:40:29.226040339Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 162,
+        "raw": "ABUALgAEA58=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-11T23:50:31.40774163Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 161,
+        "raw": "ABUALQAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T00:00:33.592370797Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 161,
+        "raw": "ABUALgAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T00:10:35.772313808Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 161,
+        "raw": "ABUALQAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T00:20:37.957933931Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 161,
+        "raw": "ABUALQAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T00:30:40.149547842Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 162,
+        "raw": "ABUALQAEA58=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T00:40:42.335445456Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 161,
+        "raw": "ABUALgAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T00:50:44.514096622Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 162,
+        "raw": "ABUALQAEA58=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T01:00:46.704489703Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 163,
+        "raw": "ABUALQAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T01:10:48.89005257Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 166,
+        "raw": "ABUALgADA6M=",
+        "soilMoisture": 3,
+        "temperature": 21,
+        "time": "2019-06-12T01:20:51.073172884Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 163,
+        "raw": "ABUALgAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T01:30:53.25572173Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 163,
+        "raw": "ABUALgAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T01:40:55.441964074Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 166,
+        "raw": "ABUALQAEA6M=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T01:50:57.633655286Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 168,
+        "raw": "ABUALQADA6U=",
+        "soilMoisture": 3,
+        "temperature": 21,
+        "time": "2019-06-12T02:00:59.81661807Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 163,
+        "raw": "ABUALgAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T02:11:01.999965113Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 162,
+        "raw": "ABUALQAEA58=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T02:21:04.18449869Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 161,
+        "raw": "ABUALQAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T02:31:06.369004405Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 161,
+        "raw": "ABUALQAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T02:41:08.55198027Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 161,
+        "raw": "ABUALQAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T02:51:10.746407323Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 161,
+        "raw": "ABUALQAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T03:01:12.928407265Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 159,
+        "raw": "ABUALQAEA5w=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T03:11:15.111547178Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 159,
+        "raw": "ABUALQAEA5w=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T03:21:17.298230768Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 159,
+        "raw": "ABUALQAEA5w=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T03:31:19.482332333Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 161,
+        "raw": "ABUALQAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T03:41:21.667126411Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 160,
+        "raw": "ABUALQAEA50=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T03:51:23.854071383Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 161,
+        "raw": "ABUALQAEA54=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T04:01:26.038808133Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 163,
+        "raw": "ABUALQAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T04:11:28.221762782Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 166,
+        "raw": "ABUALQAFA6M=",
+        "soilMoisture": 5,
+        "temperature": 21,
+        "time": "2019-06-12T04:21:30.409437178Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 164,
+        "raw": "ABUALgADA6E=",
+        "soilMoisture": 3,
+        "temperature": 21,
+        "time": "2019-06-12T04:31:32.590892204Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 156,
+        "raw": "ABUALgAEA5k=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T04:41:34.776885882Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 155,
+        "raw": "ABUALgAEA5g=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T04:51:36.962972434Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 156,
+        "raw": "ABUALQAFA5k=",
+        "soilMoisture": 5,
+        "temperature": 21,
+        "time": "2019-06-12T05:01:39.151767973Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 157,
+        "raw": "ABUALQAFA5o=",
+        "soilMoisture": 5,
+        "temperature": 21,
+        "time": "2019-06-12T05:11:41.335638138Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 162,
+        "raw": "ABUALQAEA58=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T05:21:43.521238382Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 164,
+        "raw": "ABUALQAEA6E=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T05:31:45.70597635Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 164,
+        "raw": "ABUALQAEA6E=",
+        "soilMoisture": 4,
+        "temperature": 21,
+        "time": "2019-06-12T05:41:47.8887316Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 160,
+        "raw": "ABUALQAFA50=",
+        "soilMoisture": 5,
+        "temperature": 21,
+        "time": "2019-06-12T05:51:50.077151183Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 165,
+        "raw": "ABYAKwAFA6I=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T06:01:52.262532467Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 160,
+        "raw": "ABYAKQAFA50=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T06:11:54.446465655Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 160,
+        "raw": "ABYAKgAEA50=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-12T06:21:56.635896461Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 161,
+        "raw": "ABYAKwAEA54=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-12T06:31:58.817526427Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 162,
+        "raw": "ABYAKgAFA58=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T06:42:01.001871606Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 159,
+        "raw": "ABYAKwAFA5w=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T06:52:03.196220796Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 163,
+        "raw": "ABYAKgAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-12T07:02:05.373407458Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 163,
+        "raw": "ABYAKQAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-12T07:12:07.558905632Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 162,
+        "raw": "ABYAKgAEA58=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-12T07:22:09.749950084Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 166,
+        "raw": "ABYAKgAEA6M=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-12T07:32:11.928601225Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 167,
+        "raw": "ABYAKQAFA6Q=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T07:42:14.124374726Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 163,
+        "raw": "ABYAKQAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-12T07:52:16.302666833Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 160,
+        "raw": "ABcAKAAFA50=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T08:02:18.493351243Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 162,
+        "raw": "ABcAKAAFA58=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T08:12:20.672447021Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 164,
+        "raw": "ABcAKAAEA6E=",
+        "soilMoisture": 4,
+        "temperature": 23,
+        "time": "2019-06-12T08:22:22.858564169Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 158,
+        "raw": "ABYAKAAFA5s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T08:32:25.045215931Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 158,
+        "raw": "ABcAKAAEA5s=",
+        "soilMoisture": 4,
+        "temperature": 23,
+        "time": "2019-06-12T08:42:27.232965238Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 162,
+        "raw": "ABcAJQAEA58=",
+        "soilMoisture": 4,
+        "temperature": 23,
+        "time": "2019-06-12T08:52:29.423316478Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 164,
+        "raw": "ABcAJQAEA6E=",
+        "soilMoisture": 4,
+        "temperature": 23,
+        "time": "2019-06-12T09:02:31.59899012Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 167,
+        "raw": "ABgAJQAFA6Q=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T09:12:33.788538439Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 161,
+        "raw": "ABgAJgAFA54=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T09:22:35.971850256Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 165,
+        "raw": "ABgAKgAFA6I=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T09:32:38.159384424Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 150,
+        "raw": "ABgAKwAFA5M=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T09:42:40.344250779Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 143,
+        "raw": "ABgALAAGA4w=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T09:52:42.529870916Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 150,
+        "raw": "ABgALAAFA5M=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T10:02:44.716577353Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 158,
+        "raw": "ABgALAAFA5s=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T10:12:46.904309617Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 157,
+        "raw": "ABgAKwAEA5o=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T10:22:49.087437652Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 154,
+        "raw": "ABgALQAFA5c=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T10:32:51.275133776Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 154,
+        "raw": "ABgALgAFA5c=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T10:42:53.458691399Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 152,
+        "raw": "ABgALgAFA5U=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T10:52:55.646774148Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 156,
+        "raw": "ABYALQAEA5k=",
+        "soilMoisture": 4,
+        "temperature": 22,
+        "time": "2019-06-12T11:02:57.831173955Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 141,
+        "raw": "ABcAKwAFA4o=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T11:13:00.02718549Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 141,
+        "raw": "ABcAKwAFA4o=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T11:23:02.202931606Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 140,
+        "raw": "ABgALAAGA4k=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T11:33:04.387949527Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 144,
+        "raw": "ABgAKwAFA40=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T11:43:06.574261265Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 141,
+        "raw": "ABgALAAFA4o=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T11:53:08.762079914Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 143,
+        "raw": "ABgALgAFA4w=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T12:03:10.94465122Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 144,
+        "raw": "ABgALAAFA40=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T12:13:13.131462537Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 143,
+        "raw": "ABgALAAFA4w=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T12:23:15.317546309Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 144,
+        "raw": "ABgALAAFA40=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T12:33:17.505890255Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 147,
+        "raw": "ABgALQAFA5A=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T12:43:19.687415426Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 150,
+        "raw": "ABgALAAFA5M=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T12:53:21.876514559Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 149,
+        "raw": "ABgALAAFA5I=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T13:03:24.063671878Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 152,
+        "raw": "ABgALAAEA5U=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T13:13:26.245306491Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 152,
+        "raw": "ABgALQAEA5U=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T13:23:28.430595738Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 151,
+        "raw": "ABgALgAEA5Q=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T13:33:30.616141121Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 155,
+        "raw": "ABgALwAEA5g=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T13:43:32.808392091Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 163,
+        "raw": "ABgAMAAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T13:53:34.987166276Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 165,
+        "raw": "ABgAMAAFA6I=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T14:03:37.177354533Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 158,
+        "raw": "ABgALwAEA5s=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T14:13:39.358453558Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 158,
+        "raw": "ABgALwAEA5s=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T14:23:41.546437494Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 157,
+        "raw": "ABgAMAAEA5o=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T14:33:43.732988554Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 157,
+        "raw": "ABgAMAAEA5o=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T14:43:45.930867323Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 163,
+        "raw": "ABgAMQAEA6A=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T14:53:48.112783474Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 159,
+        "raw": "ABgAMAAEA5w=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T15:03:50.295847351Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 165,
+        "raw": "ABgAMQAEA6I=",
+        "soilMoisture": 4,
+        "temperature": 24,
+        "time": "2019-06-12T15:13:52.508645103Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 153,
+        "raw": "ABgAMAADA5Y=",
+        "soilMoisture": 3,
+        "temperature": 24,
+        "time": "2019-06-12T15:23:54.658279149Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 134,
+        "raw": "ABgAMAAFA4M=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T15:33:56.846922438Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 138,
+        "raw": "ABgAMQAGA4c=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T15:43:59.036813074Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 137,
+        "raw": "ABgAMQAGA4Y=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T15:54:01.225898835Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 124,
+        "raw": "ABgAMAAGA3k=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T16:04:03.408535738Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 115,
+        "raw": "ABgAMAAGA3A=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T16:14:05.589439876Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 117,
+        "raw": "ABgALwAGA3I=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T16:24:07.780390229Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 112,
+        "raw": "ABgALwAGA20=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T16:34:09.963723124Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 120,
+        "raw": "ABgALwAGA3U=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T16:44:12.145979152Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 114,
+        "raw": "ABgALwAGA28=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T16:54:14.335937173Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 114,
+        "raw": "ABgALwAFA28=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T17:04:16.524400965Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 114,
+        "raw": "ABgALwAFA28=",
+        "soilMoisture": 5,
+        "temperature": 24,
+        "time": "2019-06-12T17:14:18.704998176Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 120,
+        "raw": "ABgALwAGA3U=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-12T17:24:20.89390928Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 122,
+        "raw": "ABcALwAFA3c=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T17:34:23.077921791Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 126,
+        "raw": "ABcALwAGA3s=",
+        "soilMoisture": 6,
+        "temperature": 23,
+        "time": "2019-06-12T17:44:25.26467077Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 128,
+        "raw": "ABcALwAGA30=",
+        "soilMoisture": 6,
+        "temperature": 23,
+        "time": "2019-06-12T17:54:27.454179701Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 131,
+        "raw": "ABcALwAGA4A=",
+        "soilMoisture": 6,
+        "temperature": 23,
+        "time": "2019-06-12T18:04:29.639948354Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 134,
+        "raw": "ABcALwAFA4M=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T18:14:31.82444518Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 134,
+        "raw": "ABcALwAFA4M=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T18:24:34.007004443Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 128,
+        "raw": "ABcAMAAFA30=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T18:34:36.19235664Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 126,
+        "raw": "ABcALwAFA3s=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T18:44:38.377464502Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 124,
+        "raw": "ABcALwAFA3k=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T18:54:40.573140411Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 122,
+        "raw": "ABcALwAFA3c=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T19:04:42.749426156Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 119,
+        "raw": "ABcALwAFA3Q=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T19:14:44.934628814Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 120,
+        "raw": "ABcALwAFA3U=",
+        "soilMoisture": 5,
+        "temperature": 23,
+        "time": "2019-06-12T19:24:47.125906441Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 121,
+        "raw": "ABYALwAFA3Y=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T19:34:49.309060068Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 124,
+        "raw": "ABYALwAFA3k=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T19:44:51.494505515Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 126,
+        "raw": "ABYALwAFA3s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T19:54:53.674914149Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 124,
+        "raw": "ABYALwAFA3k=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T20:04:55.863478081Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 123,
+        "raw": "ABYAMAAFA3g=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T20:14:58.054904293Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 127,
+        "raw": "ABYAMAAFA3w=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T20:25:00.23614623Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 126,
+        "raw": "ABYALwAFA3s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T20:35:02.424260101Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 134,
+        "raw": "ABYALwAFA4M=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T20:45:04.604862619Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 134,
+        "raw": "ABYALgAFA4M=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T20:55:06.793108847Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 134,
+        "raw": "ABYALwAFA4M=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T21:05:08.978340882Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 134,
+        "raw": "ABYALwAFA4M=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T21:15:11.159833361Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 135,
+        "raw": "ABYALwAFA4Q=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T21:25:13.345661773Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 133,
+        "raw": "ABYALgAFA4I=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T21:35:15.539438739Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 133,
+        "raw": "ABYALgAFA4I=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T21:45:17.717576821Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 134,
+        "raw": "ABYALgAFA4M=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T21:55:19.902197977Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 133,
+        "raw": "ABYALgAFA4I=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T22:05:22.089918859Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 133,
+        "raw": "ABYALwAFA4I=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T22:15:24.275321638Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 132,
+        "raw": "ABYALwAFA4E=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T22:25:26.458729606Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 133,
+        "raw": "ABYALwAFA4I=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T22:35:28.646402673Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 133,
+        "raw": "ABYALwAFA4I=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T22:45:30.830887844Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 133,
+        "raw": "ABYALgAFA4I=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T22:55:33.021036846Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 132,
+        "raw": "ABYALgAFA4E=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T23:05:35.201120398Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 132,
+        "raw": "ABYALgAFA4E=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T23:15:37.392706538Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 129,
+        "raw": "ABYALgAFA34=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T23:25:39.572058047Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 128,
+        "raw": "ABYALgAFA30=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T23:35:41.755861968Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 126,
+        "raw": "ABYALgAFA3s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T23:45:43.942430925Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 126,
+        "raw": "ABYALgAFA3s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-12T23:55:46.129940051Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 125,
+        "raw": "ABYALgAFA3o=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T00:05:48.318091134Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 126,
+        "raw": "ABYALgAFA3s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T00:15:50.498623872Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 138,
+        "raw": "ABYALQAFA4c=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T00:25:52.686301514Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 139,
+        "raw": "ABYALQAFA4g=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T00:35:54.869389053Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 140,
+        "raw": "ABYALgAFA4k=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T00:45:57.056283422Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 140,
+        "raw": "ABYALgAFA4k=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T00:55:59.245892257Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 140,
+        "raw": "ABYALgAFA4k=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T01:06:01.427129874Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 141,
+        "raw": "ABYALgAFA4o=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T01:16:03.608028584Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 140,
+        "raw": "ABYALQAFA4k=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T01:26:05.794132969Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 141,
+        "raw": "ABYALgAFA4o=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T01:36:07.982063605Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 141,
+        "raw": "ABYALgAGA4o=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T01:46:10.167900808Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 141,
+        "raw": "ABYALgAFA4o=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T01:56:12.352449742Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 141,
+        "raw": "ABYALQAFA4o=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T02:06:14.538377743Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 142,
+        "raw": "ABYALQAFA4s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T02:16:16.720571036Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 142,
+        "raw": "ABYALQAFA4s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T02:26:18.909264674Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 141,
+        "raw": "ABYALQAFA4o=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T02:36:21.095414929Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 142,
+        "raw": "ABYALQAFA4s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T02:46:23.276474717Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 142,
+        "raw": "ABYALQAFA4s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T02:56:25.4633474Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 142,
+        "raw": "ABYALQAFA4s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T03:06:27.649970824Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 142,
+        "raw": "ABYALQAFA4s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T03:16:29.836433342Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 142,
+        "raw": "ABYALQAFA4s=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T03:26:32.019357185Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 143,
+        "raw": "ABYALgAFA4w=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T03:36:34.205055614Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 139,
+        "raw": "ABYALgAFA4g=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T03:46:36.395220008Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 139,
+        "raw": "ABYALQAGA4g=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T03:56:38.574136163Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 139,
+        "raw": "ABYALQAFA4g=",
+        "soilMoisture": 5,
+        "temperature": 22,
+        "time": "2019-06-13T04:06:40.762168681Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 139,
+        "raw": "ABYALQAGA4g=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T04:16:42.948226636Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 140,
+        "raw": "ABYALgAGA4k=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T04:26:45.135232662Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 139,
+        "raw": "ABYALgAGA4g=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T04:36:47.318236445Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 139,
+        "raw": "ABYALgAGA4g=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T04:46:49.503482401Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 138,
+        "raw": "ABYALgAGA4c=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T04:56:51.685748481Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 137,
+        "raw": "ABYALgAGA4Y=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T05:06:53.873089476Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 137,
+        "raw": "ABYALgAGA4Y=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T05:16:56.063250883Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 137,
+        "raw": "ABYALgAGA4Y=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T05:26:58.251495748Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 136,
+        "raw": "ABYALgAGA4U=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T05:37:00.431599039Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 136,
+        "raw": "ABYALQAGA4U=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T05:47:02.614349302Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 137,
+        "raw": "ABYALgAGA4Y=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T05:57:04.799633611Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 137,
+        "raw": "ABYALgAGA4Y=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T06:07:06.98430283Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 136,
+        "raw": "ABYALQAGA4U=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T06:17:09.168328673Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 137,
+        "raw": "ABYALQAGA4Y=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T06:27:11.355135926Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 136,
+        "raw": "ABYALQAGA4U=",
+        "soilMoisture": 6,
+        "temperature": 22,
+        "time": "2019-06-13T06:37:13.547320888Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 136,
+        "raw": "ABYALAAHA4U=",
+        "soilMoisture": 7,
+        "temperature": 22,
+        "time": "2019-06-13T06:47:15.733244343Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 136,
+        "raw": "ABYALAAHA4U=",
+        "soilMoisture": 7,
+        "temperature": 22,
+        "time": "2019-06-13T06:57:17.912250376Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 136,
+        "raw": "ABYALAAHA4U=",
+        "soilMoisture": 7,
+        "temperature": 22,
+        "time": "2019-06-13T07:07:20.101658547Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 136,
+        "raw": "ABYAKwAHA4U=",
+        "soilMoisture": 7,
+        "temperature": 22,
+        "time": "2019-06-13T07:17:22.283340996Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 136,
+        "raw": "ABcAKwAHA4U=",
+        "soilMoisture": 7,
+        "temperature": 23,
+        "time": "2019-06-13T07:27:24.472539909Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 135,
+        "raw": "ABYAKwAHA4Q=",
+        "soilMoisture": 7,
+        "temperature": 22,
+        "time": "2019-06-13T07:37:26.654661245Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 135,
+        "raw": "ABcAKgAHA4Q=",
+        "soilMoisture": 7,
+        "temperature": 23,
+        "time": "2019-06-13T07:47:28.839285829Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 135,
+        "raw": "ABcAKQAHA4Q=",
+        "soilMoisture": 7,
+        "temperature": 23,
+        "time": "2019-06-13T07:57:31.087393653Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 135,
+        "raw": "ABgAJwAHA4Q=",
+        "soilMoisture": 7,
+        "temperature": 24,
+        "time": "2019-06-13T08:07:33.266641588Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 135,
+        "raw": "ABgAJwAHA4Q=",
+        "soilMoisture": 7,
+        "temperature": 24,
+        "time": "2019-06-13T08:17:35.454007429Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 135,
+        "raw": "ABgAJwAHA4Q=",
+        "soilMoisture": 7,
+        "temperature": 24,
+        "time": "2019-06-13T08:27:37.640609985Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 136,
+        "raw": "ABgAKQAHA4U=",
+        "soilMoisture": 7,
+        "temperature": 24,
+        "time": "2019-06-13T08:37:39.822962258Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 136,
+        "raw": "ABgAKAAHA4U=",
+        "soilMoisture": 7,
+        "temperature": 24,
+        "time": "2019-06-13T08:47:42.009314539Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 137,
+        "raw": "ABgAKAAGA4Y=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-13T08:57:44.196618697Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 138,
+        "raw": "ABgAKgAGA4c=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-13T09:07:46.383391961Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 139,
+        "raw": "ABcALAAGA4g=",
+        "soilMoisture": 6,
+        "temperature": 23,
+        "time": "2019-06-13T09:17:48.568068686Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 138,
+        "raw": "ABcALgAGA4c=",
+        "soilMoisture": 6,
+        "temperature": 23,
+        "time": "2019-06-13T09:27:50.750668584Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 136,
+        "raw": "ABcALQAHA4U=",
+        "soilMoisture": 7,
+        "temperature": 23,
+        "time": "2019-06-13T09:37:52.938056406Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 136,
+        "raw": "ABgALAAGA4U=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-13T09:47:55.126874885Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 138,
+        "raw": "ABcALQAGA4c=",
+        "soilMoisture": 6,
+        "temperature": 23,
+        "time": "2019-06-13T09:57:57.313040185Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 140,
+        "raw": "ABgALAAGA4k=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-13T10:07:59.494627425Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 139,
+        "raw": "ABgALAAGA4g=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-13T10:18:01.681627778Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 137,
+        "raw": "ABgALgAGA4Y=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-13T10:28:03.872151218Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 136,
+        "raw": "ABgALwAGA4U=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-13T10:38:06.058748652Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 133,
+        "raw": "ABgAMAAGA4I=",
+        "soilMoisture": 6,
+        "temperature": 24,
+        "time": "2019-06-13T10:48:08.240698973Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 157,
+        "raw": "ABgAMAAAA5o=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T10:58:10.426845053Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 166,
+        "raw": "ABgAMAAAA6M=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T11:08:12.613926783Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 160,
+        "raw": "ABgAMAAAA50=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T11:18:14.800127985Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 48,
+        "light": 154,
+        "raw": "ABgAMAAAA5c=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T11:28:16.987263801Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 49,
+        "light": 149,
+        "raw": "ABgAMQAAA5I=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T11:38:19.177838468Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 143,
+        "raw": "ABgALgAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T11:48:21.354538609Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 137,
+        "raw": "ABkALAAAA4Y=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T11:58:23.544601159Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 143,
+        "raw": "ABkALAAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T12:08:25.730499448Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 155,
+        "raw": "ABkAKgAAA5g=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T12:18:27.913393684Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 142,
+        "raw": "ABkAKgAAA4s=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T12:28:30.096738946Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 139,
+        "raw": "ABkAKgAAA4g=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T12:38:32.283719855Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 136,
+        "raw": "ABkAKgAAA4U=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T12:48:34.470969203Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 138,
+        "raw": "ABkAKQAAA4c=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T12:58:36.65700194Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 131,
+        "raw": "ABkAKgAAA4A=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T13:08:38.843525775Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 134,
+        "raw": "ABkAKQAAA4M=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T13:18:41.03946824Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 131,
+        "raw": "ABkAKQAAA4A=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T13:28:43.2202983Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 126,
+        "raw": "ABgAKQAAA3s=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T13:38:45.402793888Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 102,
+        "raw": "ABkAKQAAA2M=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T13:48:47.587262764Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 142,
+        "raw": "ABkAKAAAA4s=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T13:58:49.775776222Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 134,
+        "raw": "ABkAKQAAA4M=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T14:08:51.957904905Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 140,
+        "raw": "ABkAKQAAA4k=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T14:18:54.146296475Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 135,
+        "raw": "ABgAKgAAA4Q=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T14:28:56.329466157Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 134,
+        "raw": "ABgAKwAAA4M=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T14:38:58.521396682Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 133,
+        "raw": "ABgAKQAAA4I=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T14:49:00.700216171Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 132,
+        "raw": "ABgAKQAAA4E=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T14:59:02.888970186Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 124,
+        "raw": "ABgAKQAAA3k=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T15:09:05.077275444Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 126,
+        "raw": "ABgAKAAAA3s=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T15:19:07.260619147Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 128,
+        "raw": "ABgAKQAAA30=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T15:29:09.452854178Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 123,
+        "raw": "ABgAKgAAA3g=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T15:39:11.63504217Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 109,
+        "raw": "ABgAKgAAA2o=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T15:49:13.816233232Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 116,
+        "raw": "ABkAKgAAA3E=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-13T15:59:16.00242477Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 109,
+        "raw": "ABgAKwAAA2o=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T16:09:18.191084428Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 117,
+        "raw": "ABgAKwAAA3I=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T16:19:20.377391896Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 129,
+        "raw": "ABgAKwAAA34=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T16:29:22.567678219Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 132,
+        "raw": "ABgALAAAA4E=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T16:39:24.746892321Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 135,
+        "raw": "ABgAKwAAA4Q=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T16:49:26.929883962Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 138,
+        "raw": "ABgALAAAA4c=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T16:59:29.120568827Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 138,
+        "raw": "ABgALAAAA4c=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T17:09:31.310604293Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 137,
+        "raw": "ABgALAAAA4Y=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T17:19:33.489744736Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 135,
+        "raw": "ABgAKwAAA4Q=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T17:29:35.676180479Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 133,
+        "raw": "ABgALAAAA4I=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T17:39:37.859437504Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 124,
+        "raw": "ABgALAAAA3k=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T17:49:40.047184446Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 126,
+        "raw": "ABgALAAAA3s=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T17:59:42.240693961Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 122,
+        "raw": "ABgALAAAA3c=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T18:09:44.41536563Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 134,
+        "raw": "ABgALAAAA4M=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T18:19:46.605152489Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 133,
+        "raw": "ABgALAAAA4I=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T18:29:48.791040433Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 130,
+        "raw": "ABgALAAAA38=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T18:39:50.977436959Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 128,
+        "raw": "ABgALQAAA30=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T18:49:53.163226085Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 129,
+        "raw": "ABgALQAAA34=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-13T18:59:55.350672445Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 128,
+        "raw": "ABcALQAAA30=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T19:09:57.539724913Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 128,
+        "raw": "ABcALQAAA30=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T19:19:59.717694322Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 128,
+        "raw": "ABcALgAAA30=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T19:30:01.912299837Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 127,
+        "raw": "ABcALgAAA3w=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T19:40:04.09235599Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 125,
+        "raw": "ABcALgAAA3o=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T19:50:06.275276714Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 125,
+        "raw": "ABcALgAAA3o=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T20:00:08.465346614Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 128,
+        "raw": "ABcALgAAA30=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T20:10:10.646820987Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 131,
+        "raw": "ABcALgAAA4A=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T20:20:12.831686053Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 130,
+        "raw": "ABcALgAAA38=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T20:30:15.020595149Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 129,
+        "raw": "ABcALgAAA34=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T20:40:17.204013026Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 130,
+        "raw": "ABcALgAAA38=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T20:50:19.393054478Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 130,
+        "raw": "ABcALgAAA38=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T21:00:21.581201972Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 130,
+        "raw": "ABcALwAAA38=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T21:10:23.760336922Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 130,
+        "raw": "ABcALwAAA38=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T21:20:25.945907266Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 130,
+        "raw": "ABcALwAAA38=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T21:30:28.130761124Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 130,
+        "raw": "ABcALwAAA38=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T21:40:30.320657104Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 130,
+        "raw": "ABcALwAAA38=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T21:50:32.504563075Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 130,
+        "raw": "ABcALwAAA38=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T22:00:34.689444851Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 131,
+        "raw": "ABcALwAAA4A=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T22:10:36.873478376Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 131,
+        "raw": "ABcALwAAA4A=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T22:20:39.061738569Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 131,
+        "raw": "ABcALwAAA4A=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T22:30:41.246050507Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 132,
+        "raw": "ABcALgAAA4E=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T22:40:43.429850081Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 131,
+        "raw": "ABcALwAAA4A=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T22:50:45.621484891Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 132,
+        "raw": "ABcALwAAA4E=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T23:00:47.805514428Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 132,
+        "raw": "ABYALwAAA4E=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-13T23:10:49.990937026Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 132,
+        "raw": "ABYALwAAA4E=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-13T23:20:52.178880199Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 132,
+        "raw": "ABYALwAAA4E=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-13T23:30:54.36147272Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 133,
+        "raw": "ABcALwAAA4I=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T23:40:56.546227907Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 134,
+        "raw": "ABcALwAAA4M=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-13T23:50:58.73373878Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 135,
+        "raw": "ABcALwAAA4Q=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T00:01:00.916089722Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 136,
+        "raw": "ABYALwAAA4U=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T00:11:03.102278312Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 138,
+        "raw": "ABYALwAAA4c=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T00:21:05.289597477Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 144,
+        "raw": "ABYALwAAA40=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T00:31:07.475305626Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 145,
+        "raw": "ABYALwAAA44=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T00:41:09.659447048Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 145,
+        "raw": "ABYALwAAA44=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T00:51:11.847977201Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 146,
+        "raw": "ABYALwAAA48=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T01:01:14.031301593Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 145,
+        "raw": "ABYALwAAA44=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T01:11:16.220922279Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 146,
+        "raw": "ABYALwAAA48=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T01:21:18.405946766Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 47,
+        "light": 147,
+        "raw": "ABYALwAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T01:31:20.587011639Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 147,
+        "raw": "ABYALgAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T01:41:22.772975126Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 147,
+        "raw": "ABYALgAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T01:51:24.959711488Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 148,
+        "raw": "ABYALgAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T02:01:27.14792243Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 148,
+        "raw": "ABYALgAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T02:11:29.332322587Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 148,
+        "raw": "ABYALgAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T02:21:31.514476186Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 148,
+        "raw": "ABYALgAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T02:31:33.699729741Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 149,
+        "raw": "ABYALgAAA5I=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T02:41:35.890903444Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 149,
+        "raw": "ABYALgAAA5I=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T02:51:38.075104233Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 149,
+        "raw": "ABYALgAAA5I=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T03:01:40.25803335Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 149,
+        "raw": "ABYALgAAA5I=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T03:11:42.4426263Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 149,
+        "raw": "ABYALgAAA5I=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T03:21:44.628342117Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 150,
+        "raw": "ABYALgAAA5M=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T03:31:46.811616576Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 150,
+        "raw": "ABYALgAAA5M=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T03:41:48.999726885Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 150,
+        "raw": "ABYALgAAA5M=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T03:51:51.192584809Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 150,
+        "raw": "ABYALgAAA5M=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T04:01:53.369716566Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 150,
+        "raw": "ABYALgAAA5M=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T04:11:55.557515403Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 151,
+        "raw": "ABYALgAAA5Q=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T04:21:57.73861143Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 46,
+        "light": 150,
+        "raw": "ABYALgAAA5M=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T04:31:59.934852401Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 150,
+        "raw": "ABcALQAAA5M=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T04:42:02.115861202Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 151,
+        "raw": "ABYALQAAA5Q=",
+        "soilMoisture": 0,
+        "temperature": 22,
+        "time": "2019-06-14T04:52:04.302005708Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 151,
+        "raw": "ABcALQAAA5Q=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T05:02:06.485324336Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 152,
+        "raw": "ABcALQAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T05:12:08.669374962Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 152,
+        "raw": "ABcALQAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T05:22:10.858116945Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 152,
+        "raw": "ABcALAAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T05:32:13.040785783Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 152,
+        "raw": "ABcALAAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T05:42:15.228044205Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 152,
+        "raw": "ABcALAAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T05:52:17.411575664Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 152,
+        "raw": "ABcALAAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T06:02:19.605509391Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 45,
+        "light": 153,
+        "raw": "ABcALQAAA5Y=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T06:12:21.781648178Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 44,
+        "light": 152,
+        "raw": "ABcALAAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T06:22:23.971691541Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 152,
+        "raw": "ABcAKwAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T06:32:26.154801796Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 152,
+        "raw": "ABcAKwAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T06:42:28.341196636Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 151,
+        "raw": "ABcAKwAAA5Q=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T06:52:30.524187057Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 153,
+        "raw": "ABcAKwAAA5Y=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T07:02:32.713214843Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 153,
+        "raw": "ABcAKwAAA5Y=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T07:12:34.899615108Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 43,
+        "light": 153,
+        "raw": "ABcAKwAAA5Y=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T07:22:37.082135143Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 42,
+        "light": 152,
+        "raw": "ABcAKgAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T07:32:39.275566434Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 153,
+        "raw": "ABgAKQAAA5Y=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T07:42:41.456619905Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 152,
+        "raw": "ABgAKAAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T07:52:43.644000374Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 153,
+        "raw": "ABgAKAAAA5Y=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T08:02:45.824557278Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 152,
+        "raw": "ABgAKQAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T08:12:48.012907384Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 152,
+        "raw": "ABgAKQAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T08:22:50.203410159Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 152,
+        "raw": "ABgAKAAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T08:32:52.385000225Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 153,
+        "raw": "ABgAKAAAA5Y=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T08:42:54.56788559Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 152,
+        "raw": "ABgAJwAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T08:52:56.754522621Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 151,
+        "raw": "ABgAJwAAA5Q=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T09:02:58.948595552Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 152,
+        "raw": "ABgAKQAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T09:13:01.127263529Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 151,
+        "raw": "ABkAJwAAA5Q=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T09:23:03.316493152Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 151,
+        "raw": "ABgAKAAAA5Q=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T09:33:05.49872041Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 152,
+        "raw": "ABgAKAAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T09:43:07.687519714Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 151,
+        "raw": "ABkAJwAAA5Q=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T09:53:09.868686794Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 152,
+        "raw": "ABgAKAAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T10:03:12.057769948Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 151,
+        "raw": "ABkAJwAAA5Q=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T10:13:14.245170924Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 151,
+        "raw": "ABkAKAAAA5Q=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T10:23:16.432917389Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 150,
+        "raw": "ABkAJwAAA5M=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T10:33:18.613170716Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 149,
+        "raw": "ABkAKAAAA5I=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T10:43:20.813442984Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 41,
+        "light": 149,
+        "raw": "ABkAKQAAA5I=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T10:53:22.992917858Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 149,
+        "raw": "ABkAKAAAA5I=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T11:03:25.184322713Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 147,
+        "raw": "ABoAJwAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T11:13:27.364871016Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 147,
+        "raw": "ABkAKAAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T11:23:29.545279461Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 146,
+        "raw": "ABoAJwAAA48=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T11:33:31.733017423Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 145,
+        "raw": "ABkAJwAAA44=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T11:43:33.920803197Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 40,
+        "light": 146,
+        "raw": "ABkAKAAAA48=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T11:53:36.104020347Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 146,
+        "raw": "ABoAJwAAA48=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T12:03:38.290440323Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 146,
+        "raw": "ABoAJgAAA48=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T12:13:40.480019096Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 146,
+        "raw": "ABkAJwAAA48=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T12:23:42.663944547Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 39,
+        "light": 144,
+        "raw": "ABoAJwAAA40=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T12:33:44.850195678Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 143,
+        "raw": "ABoAJQAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T12:43:47.034898715Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 143,
+        "raw": "ABoAJQAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T12:53:49.224390075Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 142,
+        "raw": "ABoAJgAAA4s=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T13:03:51.40726186Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 141,
+        "raw": "ABoAJQAAA4o=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T13:13:53.600977862Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 140,
+        "raw": "ABsAJAAAA4k=",
+        "soilMoisture": 0,
+        "temperature": 27,
+        "time": "2019-06-14T13:23:55.780503525Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 136,
+        "raw": "ABsAJAAAA4U=",
+        "soilMoisture": 0,
+        "temperature": 27,
+        "time": "2019-06-14T13:33:57.972885985Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 137,
+        "raw": "ABoAJAAAA4Y=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T13:44:00.154348193Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 137,
+        "raw": "ABoAJAAAA4Y=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T13:54:02.341550927Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 136,
+        "raw": "ABsAIwAAA4U=",
+        "soilMoisture": 0,
+        "temperature": 27,
+        "time": "2019-06-14T14:04:04.528530539Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 34,
+        "light": 135,
+        "raw": "ABsAIgAAA4Q=",
+        "soilMoisture": 0,
+        "temperature": 27,
+        "time": "2019-06-14T14:14:06.718111638Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 136,
+        "raw": "ABsAIwAAA4U=",
+        "soilMoisture": 0,
+        "temperature": 27,
+        "time": "2019-06-14T14:24:08.901614438Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 34,
+        "light": 136,
+        "raw": "ABoAIgAAA4U=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T14:34:11.091353085Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 136,
+        "raw": "ABoAJAAAA4U=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T14:44:13.281467555Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 136,
+        "raw": "ABoAIwAAA4U=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T14:54:15.455145144Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 137,
+        "raw": "ABoAIwAAA4Y=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T15:04:17.642262852Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 32,
+        "light": 137,
+        "raw": "ABsAIAAAA4Y=",
+        "soilMoisture": 0,
+        "temperature": 27,
+        "time": "2019-06-14T15:14:19.829313068Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 32,
+        "light": 137,
+        "raw": "ABoAIAAAA4Y=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T15:24:22.018448474Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 137,
+        "raw": "ABoAIQAAA4Y=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T15:34:24.201462092Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 140,
+        "raw": "ABoAIQAAA4k=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T15:44:26.39352199Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 30,
+        "light": 135,
+        "raw": "AB0AHgAAA4Q=",
+        "soilMoisture": 0,
+        "temperature": 29,
+        "time": "2019-06-14T15:54:28.575799396Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 23,
+        "light": 143,
+        "raw": "ACEAFwAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 33,
+        "time": "2019-06-14T16:04:30.771276067Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 28,
+        "light": 139,
+        "raw": "AB4AHAAAA4g=",
+        "soilMoisture": 0,
+        "temperature": 30,
+        "time": "2019-06-14T16:14:33.01344908Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 21,
+        "light": 147,
+        "raw": "ACEAFQAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 33,
+        "time": "2019-06-14T16:24:35.207455359Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 15,
+        "light": 99,
+        "raw": "ACUADwAAA2A=",
+        "soilMoisture": 0,
+        "temperature": 37,
+        "time": "2019-06-14T16:34:37.394336456Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 15,
+        "light": 157,
+        "raw": "ACUADwAAA5o=",
+        "soilMoisture": 0,
+        "temperature": 37,
+        "time": "2019-06-14T16:44:39.580532299Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 14,
+        "light": 131,
+        "raw": "ACYADgAAA4A=",
+        "soilMoisture": 0,
+        "temperature": 38,
+        "time": "2019-06-14T16:54:41.771757892Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 14,
+        "light": 124,
+        "raw": "ACUADgAAA3k=",
+        "soilMoisture": 0,
+        "temperature": 37,
+        "time": "2019-06-14T17:04:43.95658737Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 15,
+        "light": 110,
+        "raw": "ACYADwAAA2s=",
+        "soilMoisture": 0,
+        "temperature": 38,
+        "time": "2019-06-14T17:14:46.143502989Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 21,
+        "light": 109,
+        "raw": "ACEAFQAAA2o=",
+        "soilMoisture": 0,
+        "temperature": 33,
+        "time": "2019-06-14T17:24:48.333120779Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 25,
+        "light": 116,
+        "raw": "AB8AGQAAA3E=",
+        "soilMoisture": 0,
+        "temperature": 31,
+        "time": "2019-06-14T17:34:50.520074686Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 28,
+        "light": 127,
+        "raw": "AB4AHAAAA3w=",
+        "soilMoisture": 0,
+        "temperature": 30,
+        "time": "2019-06-14T17:44:52.715906665Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 30,
+        "light": 155,
+        "raw": "ABwAHgAAA5g=",
+        "soilMoisture": 0,
+        "temperature": 28,
+        "time": "2019-06-14T17:54:54.894412314Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 29,
+        "light": 159,
+        "raw": "ABsAHQAAA5w=",
+        "soilMoisture": 0,
+        "temperature": 27,
+        "time": "2019-06-14T18:04:57.079570253Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 30,
+        "light": 158,
+        "raw": "ABsAHgAAA5s=",
+        "soilMoisture": 0,
+        "temperature": 27,
+        "time": "2019-06-14T18:14:59.268799104Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 31,
+        "light": 157,
+        "raw": "ABsAHwAAA5o=",
+        "soilMoisture": 0,
+        "temperature": 27,
+        "time": "2019-06-14T18:25:01.458012527Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 32,
+        "light": 157,
+        "raw": "ABoAIAAAA5o=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T18:35:03.647043042Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 156,
+        "raw": "ABoAIQAAA5k=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T18:45:05.828306206Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 157,
+        "raw": "ABoAIQAAA5o=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T18:55:08.011745865Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 156,
+        "raw": "ABoAIQAAA5k=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T19:05:10.198933249Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 154,
+        "raw": "ABoAIQAAA5c=",
+        "soilMoisture": 0,
+        "temperature": 26,
+        "time": "2019-06-14T19:15:12.382987848Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 154,
+        "raw": "ABkAIQAAA5c=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T19:25:14.573008426Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 34,
+        "light": 154,
+        "raw": "ABkAIgAAA5c=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T19:35:16.75622752Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 34,
+        "light": 152,
+        "raw": "ABkAIgAAA5U=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T19:45:18.943277838Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 34,
+        "light": 149,
+        "raw": "ABkAIgAAA5I=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T19:55:21.130463729Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 34,
+        "light": 147,
+        "raw": "ABkAIgAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T20:05:23.323054135Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 148,
+        "raw": "ABkAIwAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-14T20:15:25.498401574Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 146,
+        "raw": "ABgAIwAAA48=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T20:25:27.728433159Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 145,
+        "raw": "ABgAIwAAA44=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T20:35:29.87110171Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 143,
+        "raw": "ABgAJAAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T20:45:32.064473389Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 142,
+        "raw": "ABgAJAAAA4s=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T20:55:34.242940612Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 143,
+        "raw": "ABgAJAAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T21:05:36.428005354Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 145,
+        "raw": "ABgAJAAAA44=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T21:15:38.616605592Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 143,
+        "raw": "ABgAJQAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T21:25:40.798677452Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 142,
+        "raw": "ABgAJQAAA4s=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T21:35:42.991028443Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 140,
+        "raw": "ABgAJgAAA4k=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T21:45:45.185888296Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 143,
+        "raw": "ABgAJQAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T21:55:47.359565695Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 143,
+        "raw": "ABgAJQAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T22:05:49.542333766Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 144,
+        "raw": "ABgAJQAAA40=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T22:15:51.732542113Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 144,
+        "raw": "ABgAJQAAA40=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T22:25:53.913602686Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 143,
+        "raw": "ABgAJQAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T22:35:56.103540724Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 134,
+        "raw": "ABgAJQAAA4M=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-14T22:45:58.291829141Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 143,
+        "raw": "ABcAJQAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T22:56:00.476987364Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 141,
+        "raw": "ABcAJQAAA4o=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T23:06:02.664209039Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 141,
+        "raw": "ABcAJQAAA4o=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T23:16:04.849345249Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 117,
+        "raw": "ABcAJQAAA3I=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T23:26:07.032926845Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 125,
+        "raw": "ABcAJQAAA3o=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T23:36:09.217210205Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 137,
+        "raw": "ABcAJQAAA4Y=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T23:46:11.404775388Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 140,
+        "raw": "ABcAJQAAA4k=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-14T23:56:13.5885618Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 138,
+        "raw": "ABcAJgAAA4c=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T00:06:15.776432892Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 133,
+        "raw": "ABcAJQAAA4I=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T00:16:17.966095164Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 127,
+        "raw": "ABcAJQAAA3w=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T00:26:20.146566604Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 114,
+        "raw": "ABcAJQAAA28=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T00:36:22.334828905Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 129,
+        "raw": "ABcAJQAAA34=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T00:46:24.516020245Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 139,
+        "raw": "ABcAJQAAA4g=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T00:56:26.702060253Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 139,
+        "raw": "ABcAJQAAA4g=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T01:06:28.888200652Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 141,
+        "raw": "ABcAJQAAA4o=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T01:16:31.075445857Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 138,
+        "raw": "ABcAJgAAA4c=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T01:26:33.262240618Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 137,
+        "raw": "ABcAJgAAA4Y=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T01:36:35.455037931Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 143,
+        "raw": "ABcAJQAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T01:46:37.631516143Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 143,
+        "raw": "ABcAJQAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T01:56:39.81803239Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 143,
+        "raw": "ABcAJQAAA4w=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T02:06:42.005475642Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 144,
+        "raw": "ABcAJQAAA40=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T02:16:44.191490239Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 145,
+        "raw": "ABcAJQAAA44=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T02:26:46.376126168Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 145,
+        "raw": "ABcAJQAAA44=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T02:36:48.563647525Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 145,
+        "raw": "ABcAJQAAA44=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T02:46:50.746251788Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 145,
+        "raw": "ABcAJgAAA44=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T02:56:52.935445291Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 145,
+        "raw": "ABcAJgAAA44=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T03:06:55.128001778Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 145,
+        "raw": "ABcAJgAAA44=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T03:16:57.302821983Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 145,
+        "raw": "ABcAJgAAA44=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T03:26:59.487381127Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 146,
+        "raw": "ABcAJgAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T03:37:01.678300181Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 145,
+        "raw": "ABcAJQAAA44=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T03:47:03.864252234Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 145,
+        "raw": "ABcAJQAAA44=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T03:57:06.047039151Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 145,
+        "raw": "ABcAJQAAA44=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T04:07:08.234067689Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 146,
+        "raw": "ABcAJQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T04:17:10.417646752Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 146,
+        "raw": "ABcAJgAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T04:27:12.603053119Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 38,
+        "light": 146,
+        "raw": "ABcAJgAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T04:37:14.792400031Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 147,
+        "raw": "ABcAJQAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T04:47:16.975264816Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 146,
+        "raw": "ABcAJQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T04:57:19.16356808Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 146,
+        "raw": "ABcAJQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T05:07:21.347474049Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 146,
+        "raw": "ABcAJQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T05:17:23.538079552Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 146,
+        "raw": "ABcAJQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T05:27:25.724717024Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 146,
+        "raw": "ABcAJQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T05:37:27.905081177Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 146,
+        "raw": "ABcAJQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T05:47:30.094291591Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 146,
+        "raw": "ABcAJQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T05:57:32.278785068Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 37,
+        "light": 146,
+        "raw": "ABcAJQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T06:07:34.463883921Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 146,
+        "raw": "ABcAJAAAA48=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T06:17:36.658497387Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 36,
+        "light": 148,
+        "raw": "ABcAJAAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 23,
+        "time": "2019-06-15T06:27:38.832673141Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 147,
+        "raw": "ABgAIwAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-15T06:37:41.02531417Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 148,
+        "raw": "ABgAIwAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-15T06:47:43.237571956Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 148,
+        "raw": "ABgAIwAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-15T06:57:45.395530543Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 147,
+        "raw": "ABgAIwAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-15T07:07:47.576573467Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 147,
+        "raw": "ABgAIwAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-15T07:17:49.763853466Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 35,
+        "light": 148,
+        "raw": "ABgAIwAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-15T07:27:51.949200289Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 148,
+        "raw": "ABgAIQAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-15T07:37:54.134633287Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 34,
+        "light": 148,
+        "raw": "ABgAIgAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-15T07:47:56.320595382Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 148,
+        "raw": "ABgAIQAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-15T07:57:58.50564661Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 148,
+        "raw": "ABgAIQAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 24,
+        "time": "2019-06-15T08:08:00.690015589Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 32,
+        "light": 148,
+        "raw": "ABkAIAAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T08:18:02.882152289Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 31,
+        "light": 148,
+        "raw": "ABkAHwAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T08:28:05.070451925Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 32,
+        "light": 148,
+        "raw": "ABkAIAAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T08:38:07.250972544Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 31,
+        "light": 148,
+        "raw": "ABkAHwAAA5E=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T08:48:09.439575256Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 30,
+        "light": 147,
+        "raw": "ABkAHgAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T08:58:11.621690857Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 30,
+        "light": 147,
+        "raw": "ABkAHgAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T09:08:13.813035916Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 30,
+        "light": 146,
+        "raw": "ABkAHgAAA48=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T09:18:15.999264335Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 30,
+        "light": 147,
+        "raw": "ABkAHgAAA5A=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T09:28:18.188619167Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 31,
+        "light": 145,
+        "raw": "ABkAHwAAA44=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T09:38:20.368231527Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 146,
+        "raw": "ABkAIQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T09:48:22.552577168Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 33,
+        "light": 146,
+        "raw": "ABkAIQAAA48=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T09:58:24.757485311Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 32,
+        "light": 146,
+        "raw": "ABkAIAAAA48=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T10:08:26.924869973Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 32,
+        "light": 146,
+        "raw": "ABkAIAAAA48=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T10:18:29.11140386Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 31,
+        "light": 145,
+        "raw": "ABkAHwAAA44=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T10:28:31.302937121Z"
+    },
+    {
+        "device_id": "gr_duino1",
+        "humidity": 31,
+        "light": 146,
+        "raw": "ABkAHwAAA48=",
+        "soilMoisture": 0,
+        "temperature": 25,
+        "time": "2019-06-15T10:38:33.487417456Z"
+    }
+]
