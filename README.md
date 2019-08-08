@@ -1,4 +1,4 @@
-# GreenRoof_Monitoring
+# IoT Green Roof Monitoring
 A real-time IoT green roof monitoring system powered by Arduino microcontrollers and Rasberry Pi
 
 
